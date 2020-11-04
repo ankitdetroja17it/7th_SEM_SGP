@@ -4,56 +4,52 @@
 
 WebRecon provides detailed information such as :
 
-Header Information
+  Header Information
 
-Whois
+  Whois
 
-SSL Certificate Information
+  SSL Certificate Information
 
-Crawler
+  Crawler
 
-html
-CSS
-Javascripts
-Internal Links
-External Links
-Images
-robots
-sitemaps
-Links inside Javascripts
-Links from Wayback Machine from Last 1 Year
-DNS Enumeration
+      html
+      CSS
+      Javascripts
+      Internal Links
+      External Links
+      Images
+      robots
+      sitemaps
+      Links inside Javascripts
+  
+  DNS Enumeration
+      DMARC Records
 
-A, AAAA, ANY, CNAME, MX, NS, SOA, TXT Records
-DMARC Records
-Subdomain Enumeration
+  Subdomain Enumeration
 
-Data Sources
-BuffOver
-crt.sh
-ThreatCrowd
-AnubisDB
-ThreatMiner
-Facebook Certificate Transparency API
-Auth Token is Required for this source, read Configuration below
-Traceroute
+      Data Sources
+      BuffOver
+      crt.sh
+      ThreatCrowd
+      AnubisDB
 
-Protocols
-UDP
-TCP
-ICMP
-Directory Searching
+  Traceroute
 
-Support for File Extensions
-Directories from Wayback Machine from Last 1 Year
-Port Scan
+      Protocols
+      UDP
+      TCP
+      ICMP
 
-Fast
-Top 1000 Ports
-Open Ports with Standard Services
+  Directory Searching
+
+  Port Scan
+
+      Fast
+      Top 1000 Ports
+      Open Ports with Standard Services
+
 Export
-
-Formats
-txt
-xml
-csv
+    Formats
+      txt
+      xml
+      csv
